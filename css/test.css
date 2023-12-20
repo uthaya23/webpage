@@ -94,7 +94,6 @@ div.scroll-container {
     display: flex;
     width: 100%;
     min-height: 5%;
-    display: flex;
     padding: 10px;
     color: aliceblue;
 
@@ -138,15 +137,18 @@ figcaption{
   #face{
     background-color: #0e0d0d;
     margin-right: 10px;
+      color: white;
     
   }
   #twit{
     background-color: #0e0d0d;
     margin-right: 10px;
+      color: white;
   }
   #pint{
     background-color: #0e0d0d;
     margin-right: 10px;
+      color: white;
   }
   #inst{
     background-color: #0e0d0d;
@@ -164,7 +166,7 @@ figcaption{
   }
    header{
     display:flex;
-       width:80%;
+       width:auto;
    }
 .one{
     margin-left: 5px;
