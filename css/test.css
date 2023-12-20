@@ -164,6 +164,7 @@ figcaption{
   }
    header{
     display:flex;
+       width:80%;
    }
 .one{
     margin-left: 5px;
